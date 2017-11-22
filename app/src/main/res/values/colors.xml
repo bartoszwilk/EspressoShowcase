@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#444769</color>
+    <color name="colorPrimaryDark">#181825</color>
+    <color name="colorAccent">#FF144B</color>
+    <color name="button_primary_color">#FF144B</color>
+    <color name="button_primary_pressed">#FF216C</color>
+    <color name="button_secondary_color">#444769</color>
+    <color name="button_secondary_pressed">#696A89</color>
+    <color name="button_facebook">#34589D</color>
+    <color name="button_facebook_pressed">#5579B5</color>
+    <color name="tv_button_stroke_color">#FFFFFF</color>
+    <color name="background_player">#28283E</color>
+    <color name="list_channel_background">#181825</color>
+    <color name="background_dialog">#32324D</color>
+    <color name="btn_payu_color_pressed">#B7DB00</color>
+    <color name="btn_payu_color">#A4C300</color>
+    <color name="promo_color">#43D861</color>
+
+    <color name="disabled_bg">#28283E</color>
+    <color name="disabled_font">#626188</color>
+
+    <color name="bottom_bar_divider">#1C1C2C</color>
+
+    <color name="white">#ffffff</color>
+
+    <color name="mirage">#181825</color>
+    <color name="steel_blue">#222234</color>
+
+    <color name="text_grey">#9D9BD4</color>
+    <color name="text_white">#ffffff</color>
+
+    <color name="leanback_menu">#32324D</color>
+    <color name="channel_list_divider">#E628283E</color>
+    <color name="leanback_background">#28283E</color>
+
+    <color name="divider_channel_packages">#28283E</color>
+    <color name="background_channel_grid">#28283E</color>
+
+    <color name="epg_cell_normal">#202031</color>
+    <color name="epg_cell_active">#28283E</color>
+</resources>
